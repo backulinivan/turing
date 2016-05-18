@@ -1,0 +1,12 @@
+q0 _ q0 _ R
+q0 a q1 a R
+q0 b q1 b R
+q1 a q2 _ R
+q1 b q2 _ R
+q1 _ Q _ L
+q2 a q3a _ L
+q2 b q3b _ L
+q2 _ Q _ L
+q3a _ q4 a R
+q3b _ q4 b R
+q4 _ q2 _ R
